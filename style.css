@@ -3,10 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lato';
-
-    /* da cancellare per la consegna */
-    background-color: #640a64;
-    
 }
 .container {
     display: flex;
